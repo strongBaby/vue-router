@@ -1,5 +1,5 @@
 /* @flow */
-
+let a= 'ceshi'
 import type VueRouter from './index'
 import { resolvePath } from './util/path'
 import { assert, warn } from './util/warn'
